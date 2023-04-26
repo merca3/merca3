@@ -4,6 +4,7 @@ I've started my journey in IT 💻 and this GitHub account in February 2021, whe
 
 After starting to work in Accenture Baltics, I started to add here some repos from my continios learning, including more on JavaScript/React/Node, and also other things like C++, SQL etc. You won't see much of original code, as most of the time I'm working in private repos and different platforms, but I will try to continue on my latest idea of pet project - [Travel Plan Storage](https://github.com/merca3/travel-plan-storage), using NextJS full-stack framework for React. Wish me luck with that! 🍀
 
+
 ## Want to connect?
 
 Reach out to me through those social platforms:
